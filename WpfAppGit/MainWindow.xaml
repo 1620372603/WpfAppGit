@@ -12,6 +12,7 @@
         <Button Content="Button" HorizontalAlignment="Left" Margin="10,34,0,0" VerticalAlignment="Top" Width="75"/>
         <Button Content="Button" HorizontalAlignment="Left" Margin="10,58,0,0" VerticalAlignment="Top" Width="75"/>
         <Button Content="Button" HorizontalAlignment="Left" Margin="245,105,0,0" VerticalAlignment="Top" Width="75"/>
+        <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="540,215,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
