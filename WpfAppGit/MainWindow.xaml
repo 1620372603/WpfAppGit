@@ -12,6 +12,7 @@
         <Button Content="Button" HorizontalAlignment="Left" Margin="10,34,0,0" VerticalAlignment="Top" Width="75"/>
         <Button Content="Button" HorizontalAlignment="Left" Margin="10,58,0,0" VerticalAlignment="Top" Width="75"/>
         <Button Content="修改fork程序" HorizontalAlignment="Left" Margin="245,105,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="245,141,0,0" VerticalAlignment="Top" Width="75"/>
 
     </Grid>
 </Window>
