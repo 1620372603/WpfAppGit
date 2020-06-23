@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppGit", "WpfAppGit\WpfAppGit.csproj", "{F597F44E-06BE-4296-8912-4FEB2598A10B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F597F44E-06BE-4296-8912-4FEB2598A10B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F597F44E-06BE-4296-8912-4FEB2598A10B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F597F44E-06BE-4296-8912-4FEB2598A10B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F597F44E-06BE-4296-8912-4FEB2598A10B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80A2A364-5D0A-428E-A86C-39DCC4127EFA}
+	EndGlobalSection
+EndGlobal
